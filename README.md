@@ -12,6 +12,7 @@ LeetCode solutions and problem-solving practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ LeetCode solutions and problem-solving practice
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0005-longest-palindromic-substring/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -48,4 +50,8 @@ LeetCode solutions and problem-solving practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
