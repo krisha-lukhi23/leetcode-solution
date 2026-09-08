@@ -42,6 +42,7 @@ LeetCode solutions and problem-solving practice
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0006-zigzag-conversion/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
