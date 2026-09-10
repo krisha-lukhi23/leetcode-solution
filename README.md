@@ -27,6 +27,7 @@ LeetCode solutions and problem-solving practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0010-regular-expression-matching/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,10 +47,12 @@ LeetCode solutions and problem-solving practice
 | [0005-longest-palindromic-substring](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0010-regular-expression-matching](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0010-regular-expression-matching/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0010-regular-expression-matching/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
