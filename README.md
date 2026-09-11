@@ -8,6 +8,7 @@ LeetCode solutions and problem-solving practice
 | ------- | ------- |
 | [0001-two-sum](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ LeetCode solutions and problem-solving practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +63,8 @@ LeetCode solutions and problem-solving practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/krisha-lukhi23/leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
